@@ -4,9 +4,9 @@
 💞️ I’m looking to collaborate on websites<br>
 😄 Pronouns: he/him<br>
 ⚡ Fun fact: I love playing Volleyball<br>
-<h1>Here are some skills</h1><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+<h1>🧑‍💻These are some skills</h1>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,robloxstudio)](https://skillicons.dev)
 <!---
 Preston-code1/Preston-code1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
