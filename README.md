@@ -7,4 +7,4 @@
 
 <h1>🧑‍💻 Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c++,robloxstudio)](https://skillicons.dev)
